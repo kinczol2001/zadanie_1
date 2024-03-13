@@ -25,3 +25,5 @@ bok_f=12
 pole_trapezu=(bok_d+bok_e)*bok_f/2
 
 print("Pole trapezu wynosi: ",pole_trapezu)
+
+print("Życzę miłego dnia :)")
